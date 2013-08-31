@@ -1,0 +1,10 @@
+{
+  "name": "backbone",
+  "version": "latest",
+  "dependencies": {
+  },
+  "scripts": [
+    "index.js",
+    "lib/index.js"
+  ]
+}
