@@ -2,7 +2,7 @@
   "name": "backbone",
   "version": "1.0.0",
   "dependencies": {
-    "component/jquery": "*",
+    "kelonye/jquery": "1.10.2",
     "component/underscore": "*"
   },
   "scripts": [
